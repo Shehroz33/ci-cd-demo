@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
 "scripts": {
-  "build": "echo Build successful",
-  "test": "echo Tests passed"
+"build": "echo Build successful v2",
+"test": "echo Tests passed"
 },
 "keywords": [],
   "author": "",
